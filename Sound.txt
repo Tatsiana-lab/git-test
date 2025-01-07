@@ -1,6 +1,9 @@
-Education will be good
+
 A dive into Bruno and httpYac
 git add Sound.txt
 git status
 git commit -m "Add 2 lines in the Sound"
 git push
+
+My name is Tanya
+I am interested in your project
