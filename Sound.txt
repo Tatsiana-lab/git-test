@@ -5,5 +5,5 @@ git status
 git commit -m "Add 2 lines in the Sound"
 git push
 
-My name is Tanya
-I am interested in your project
+123 lines have been added
+----------------------------------------
