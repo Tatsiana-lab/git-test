@@ -7,3 +7,7 @@ git push
 
 123 lines have been added
 ----------------------------------------
+124 lines have been added
+----------------------------------------
+
+add new lines in the file
